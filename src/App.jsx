@@ -1,10 +1,17 @@
 
 
 const App = () => {
-  const namelar = "Ali";
+  const namelar  = "Jamshid"
   return (
     <>
-    <header>header</header>
+    <header>
+       <nav>
+         <a href="">Home</a>
+         <a href="">Home</a>
+         <a href="">Home</a>
+         <a href="">Home</a>
+       </nav>
+    </header>
     <main>
       <section>Section 1</section>
     </main>
