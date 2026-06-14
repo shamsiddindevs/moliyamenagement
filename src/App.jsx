@@ -1,7 +1,7 @@
 
 
 const App = () => {
-  const name = "Jamshid";
+  const namelar  = "Jamshid";
   return (
     <>
     <header>
