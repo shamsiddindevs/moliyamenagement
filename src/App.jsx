@@ -2,7 +2,13 @@
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+    <header>header</header>
+    <main>
+      <section>Section 1</section>
+    </main>
+    <footer>Footer</footer>
+    </>
   )
 }
 
